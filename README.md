@@ -1,4 +1,4 @@
-
+<img src = https://github.com/user-attachments/assets/b7fc8fca-5a0d-4f4a-84a8-47c25aa26d81>
 <!--APRESENTAÇÃO-->
 
 ## Opa, Sou o Caio! 👋
