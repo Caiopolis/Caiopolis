@@ -13,9 +13,9 @@ Atualmente, estou totalmente focado em Java, que será minha linguagem principal
 <!--GITHUB STATS-->
 <div align="center">
    <h2><strong>📈 Estastísticas</strong></h2>
-  <img height="250em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Caiopolis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&text_color=D9D9D9&icon_color=4169e1&bg_color=121212&border_color=f2f2f2&title_color=4169e1"/>
+  <img height="250em" width="450em" src="https://github-readme-stats.vercel.app/api?username=caiopolis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&text_color=D9D9D9&icon_color=4169e1&bg_color=121212&border_color=f2f2f2&title_color=4169e1"/>
   &nbsp&nbsp&nbsp
-      <img height="250em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiopolis&layout=compact&langs_count=7&theme=github_dark&text_color=f2f2f2&icon_color=9A0000&bg_color=121212&title_color=4169e1"/>
+      <img height="250em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopolis&layout=compact&langs_count=7&theme=github_dark&text_color=f2f2f2&icon_color=9A0000&bg_color=121212&title_color=4169e1"/>
 </div>
 <br/><br/>
 
