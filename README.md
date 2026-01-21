@@ -4,12 +4,17 @@
 ## Opa, Sou o Caio! 👋
 
 `Desenvolvedor Back-End`
+ 
+<img src="https://github.com/user-attachments/assets/e6171c4d-a4eb-4614-b1bc-5ffea3d6517b" align="right" width="230">
 
-Olá! Sou um programador em formação, apaixonado por tecnologia e desenvolvimento de software. Iniciei minha jornada na programação em 2023, onde finalizei o ensino médio e comecei minha graduação em ADS (Analise e desenvolvimento de sistema) pela FATEC.
+<br/>
 
-Atualmente, estou totalmente focado em Java, que será minha linguagem principal de carreira. Tenho investido meu tempo em aprofundar conceitos de orientação a objetos, estruturas robustas e boas práticas, com o objetivo de me tornar um desenvolvedor completo, capaz de atuar tanto na codificação quanto na Arquitetura de software.
-<br/><br/><br/>
+Olá! Sou um programador em formação, apaixonado por tecnologia e desenvolvimento de software. Iniciei minha jornada na programação em 2023, onde finalizei o ensino médio e comecei minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**.
 
+Atualmente, estou totalmente focado em **Java**, que será minha linguagem principal de carreira. Tenho investido meu tempo em aprofundar conceitos de orientação a objetos, estruturas robustas e boas práticas, com o objetivo de me tornar um desenvolvedor completo, capaz de atuar tanto na codificação quanto na **Arquitetura de Software**.
+ 
+  <br/><br/><br/>
+  
 <!--GITHUB STATS-->
 <div align="center">
    <h2><strong>📈 Estastísticas</strong></h2>
