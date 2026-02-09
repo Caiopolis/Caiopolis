@@ -19,11 +19,11 @@ Atualmente, estou totalmente focado em **Java**, que será minha linguagem princ
 <div align="center">
    <h2><strong>📈 Estastísticas</strong></h2>
 
-  <img height="250em" width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Caiopolis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&text_color=D9D9D9&icon_color=4169e1&bg_color=121212&border_color=f2f2f2&title_color=4169e1"/>
+  <img height="250em" width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Caiopolis&custom_title=Status%20GitHub%20Caiopolis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&text_color=D9D9D9&icon_color=4169e1&bg_color=121212&border_color=f2f2f2&title_color=4169e1&cache_bust=12345"/>
   &nbsp&nbsp&nbsp
-      <img height="250em" width="350em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Caiopolis&layout=compact&langs_count=7&theme=github_dark&text_color=f2f2f2&icon_color=9A0000&bg_color=121212&title_color=4169e1"/>
+      <img height="250em" width="350em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Caiopolis&layout=compact&custom_title=LinguagensmaisUtilizadas&langs_count=7&theme=github_dark&text_color=f2f2f2&icon_color=9A0000&bg_color=121212&title_color=4169e1"/>
 </div>
-<br/><br/>
+<br/>
 
 <div align="center">
  <h2><strong>💻 Linguagens e Tecnologias</strong></h2>
