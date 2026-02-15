@@ -1,4 +1,4 @@
-<img src = https://github.com/user-attachments/assets/b7fc8fca-5a0d-4f4a-84a8-47c25aa26d81>
+
 <!--APRESENTAÇÃO-->
 
 ## Opa, Sou o Caio! 👋
@@ -57,4 +57,3 @@ Atualmente, estou totalmente focado em **Java**, que será minha linguagem princ
   
 ##
 
-<img height="100em" width="1200em" src= https://github.com/user-attachments/assets/9975038e-9c8d-437a-a4a2-25cfabb4d393/>
