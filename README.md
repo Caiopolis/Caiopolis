@@ -5,7 +5,7 @@
 
 `Desenvolvedor Back-End`
  
-<img width="350" height="350" alt="Image" align="right" src="https://github.com/user-attachments/assets/09c9c20c-6e30-4806-a80c-fb015d7122ca" />
+<img width="320" height="320" alt="Image" align="right" src="https://github.com/user-attachments/assets/09c9c20c-6e30-4806-a80c-fb015d7122ca" />
 
 Olá! Sou um programador em formação, apaixonado por tecnologia e desenvolvimento de software. Iniciei minha jornada na programação em 2023, onde finalizei o ensino médio e comecei minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**.
 
