@@ -5,8 +5,7 @@
 
 `Desenvolvedor Back-End`
  
-<img src="https://github.com/user-attachments/assets/e6171c4d-a4eb-4614-b1bc-5ffea3d6517b" align="right" width="230">
-
+<img width="260" height="260" alt="Image" align="right" src="https://github.com/user-attachments/assets/8849e221-795e-4473-a113-e1e46b34053b" />
 <br/>
 
 Olá! Sou um programador em formação, apaixonado por tecnologia e desenvolvimento de software. Iniciei minha jornada na programação em 2023, onde finalizei o ensino médio e comecei minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**.
@@ -48,8 +47,6 @@ Atualmente, estou totalmente focado em **Java**, que será minha linguagem princ
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   &nbsp&nbsp 
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  &nbsp&nbsp 
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   &nbsp&nbsp
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />    
 </div>
