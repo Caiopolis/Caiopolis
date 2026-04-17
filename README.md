@@ -6,7 +6,7 @@
 `Desenvolvedor Back-End`
 
 <picture>
- <img width="400" height="250" alt="Image" align="right" src="https://github.com/user-attachments/assets/09c9c20c-6e30-4806-a80c-fb015d7122ca" />
+ <img width="350" height="250" alt="Image" align="right" src="https://github.com/user-attachments/assets/09c9c20c-6e30-4806-a80c-fb015d7122ca" />
 </picture>
 
 
