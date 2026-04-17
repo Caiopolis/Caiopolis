@@ -5,6 +5,11 @@
 
 `Desenvolvedor Back-End`
 
+<picture>
+ <img width="400" height="250" alt="Image" align="right" src="https://github.com/user-attachments/assets/09c9c20c-6e30-4806-a80c-fb015d7122ca" />
+</picture>
+
+
 Sou um programador em formação, apaixonado por tecnologia e desenvolvimento de software. Iniciei minha jornada na programação em 2023, onde finalizei o ensino médio e comecei minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**.
 
 Atualmente, estou totalmente focado em **Java**, que será minha linguagem principal de carreira. Tenho investido meu tempo em aprofundar conceitos de orientação a objetos, estruturas robustas e boas práticas, com o objetivo de me tornar um desenvolvedor completo, capaz de atuar tanto na codificação quanto na **Arquitetura de Software**.
