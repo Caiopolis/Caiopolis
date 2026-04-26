@@ -10,7 +10,7 @@
 </picture>
 
 
-Sou um desenvolvedor apaixonado por tecnologia. Iniciei minha jornada na programação em 2023, onde finalizei o ensino médio e comecei minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**.
+Sou um desenvolvedor apaixonado por tecnologia. Iniciei minha jornada em programação em 2023, onde finalizei o ensino médio e comecei minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)** pela **FATEC**.
 
 Atualmente, estou totalmente focado em **Java**, que é minha linguagem principal de carreira. Tenho investido meu tempo em aprofundar conceitos de orientação a objetos, estruturas robustas e boas práticas, capaz de atuar tanto na codificação quanto na **Arquitetura de Software**.
  
