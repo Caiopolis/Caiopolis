@@ -53,6 +53,8 @@ Atualmente, estou totalmente focado em **Java**, que é minha linguagem principa
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   &nbsp&nbsp
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />    
+   &nbsp&nbsp    
+   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
           
 </div>
   <br/> 
