@@ -31,6 +31,8 @@ Atualmente, estou totalmente focado em **Java**, que é minha linguagem principa
    <br/> 
   <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   &nbsp
+  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+   &nbsp&nbsp
   <img height="60em" width="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp&nbsp
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -51,6 +53,7 @@ Atualmente, estou totalmente focado em **Java**, que é minha linguagem principa
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   &nbsp&nbsp
   <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />    
+          
 </div>
   <br/> 
   
