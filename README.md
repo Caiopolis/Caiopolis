@@ -20,9 +20,9 @@ Atualmente, estou totalmente focado em **Java**, que é minha linguagem principa
 <div align="center">
    <h2><strong>📈 Estastísticas</strong></h2>
 
-  <img height="250em" width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Caiopolis&custom_title=Status%20GitHub%20Caiopolis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&text_color=D9D9D9&icon_color=4169e1&bg_color=121212&border_color=f2f2f2&title_color=4169e1&cache_bust=12345"/>
+ <img height="250em" width="450em" src="https://github-readme-stats-caio-do-polis.vercel.app/api?username=Caiopolis&custom_title=Status%20GitHub%20Caiopolis&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github&text_color=D9D9D9&icon_color=4169e1&bg_color=121212&border_color=f2f2f2&title_color=4169e1&cache_bust=1" />
   &nbsp&nbsp&nbsp
-      <img height="250em" width="350em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Caiopolis&layout=compact&custom_title=LinguagensmaisUtilizadas&langs_count=7&theme=github_dark&text_color=f2f2f2&icon_color=9A0000&bg_color=121212&title_color=4169e1"/>
+      <img height="250em" width="350em" src="https://github-readme-stats-caio-do-polis.vercel.app/api/top-langs/?username=Caiopolis&layout=compact&custom_title=Top%20Linguagens&theme=github_dark&text_color=f2f2f2&icon_color=9A0000&bg_color=121212&title_color=4169e1"/>
 </div>
 <br/>
 
@@ -65,7 +65,7 @@ Atualmente, estou totalmente focado em **Java**, que é minha linguagem principa
   <h2><strong>💾 Projetos</strong></h2>
    <br/> 
   <a href="https://github.com/JoseFreires/Hermes-BackEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoseFreires&repo=Hermes-Backend&theme=github_dark" alt="Readme Card" />
+    <img src="https://github-readme-stats-caio-do-polis.vercel.app/api/pin/?username=JoseFreires&repo=Hermes-Backend&theme=github_dark" alt="Readme Card" />
   </a>
 </div>
 
