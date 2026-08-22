@@ -67,5 +67,8 @@ Atualmente, estou totalmente focado em **Java**, que é minha linguagem principa
   <a href="https://github.com/JoseFreires/Hermes-BackEnd">
     <img src="https://github-readme-stats-caio-do-polis.vercel.app/api/pin/?username=JoseFreires&repo=Hermes-Backend&theme=github_dark" alt="Readme Card" />
   </a>
+ <a href="https://github.com/JoseFreires/DOMUS-BackEnd">
+    <img src="https://github-readme-stats-caio-do-polis.vercel.app/api/pin/?username=JoseFreires&repo=Domus-Backend&theme=github_dark" alt="Readme Card" />
+  </a>
 </div>
 
